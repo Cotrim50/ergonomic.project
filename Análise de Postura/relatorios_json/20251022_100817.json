@@ -1,0 +1,31 @@
+{
+    "session_id": "20251022_100817",
+    "duration_sec": 8,
+    "sitting_stats": {
+        "0": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 4
+        }
+    },
+    "timeline": {
+        "0": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 6,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 8,
+                "estado": "de_pe"
+            }
+        ]
+    }
+}

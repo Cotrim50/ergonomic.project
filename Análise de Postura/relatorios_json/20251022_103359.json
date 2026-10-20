@@ -1,0 +1,54 @@
+{
+    "session_id": "20251022_103359",
+    "duration_sec": 9,
+    "sitting_stats": {
+        "1": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 4
+        },
+        "0": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 4
+        }
+    },
+    "timeline": {
+        "1": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 6,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 8,
+                "estado": "de_pe"
+            }
+        ],
+        "0": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 6,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 8,
+                "estado": "de_pe"
+            }
+        ]
+    }
+}

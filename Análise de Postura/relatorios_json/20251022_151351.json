@@ -1,0 +1,38 @@
+{
+    "session_id": "20251022_151351",
+    "duration_sec": 3,
+    "sitting_stats": {
+        "0": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 1
+        }
+    },
+    "timeline": {
+        "0": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            }
+        ]
+    },
+    "angles_tronco": {
+        "0": [
+            {
+                "timestamp": 2,
+                "angle": 16.250341761085387
+            }
+        ]
+    },
+    "posicao_bracos": {
+        "0": [
+            {
+                "timestamp": 2,
+                "ombro_dir": 0.03189307451248169,
+                "cotovelo_dir": -0.1104554682970047,
+                "ombro_esq": 0.05862729251384735,
+                "cotovelo_esq": -0.0934753343462944
+            }
+        ]
+    }
+}

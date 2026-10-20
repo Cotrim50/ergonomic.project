@@ -1,0 +1,225 @@
+{
+    "session_id": "20251022_152353",
+    "duration_sec": 18,
+    "sitting_stats": {
+        "0": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 9
+        },
+        "3": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 1
+        },
+        "4": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 2
+        }
+    },
+    "timeline": {
+        "0": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 6,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 8,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 10,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 12,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 14,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 16,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 18,
+                "estado": "de_pe"
+            }
+        ],
+        "3": [
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            }
+        ],
+        "4": [
+            {
+                "timestamp": 10,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 12,
+                "estado": "de_pe"
+            }
+        ]
+    },
+    "angles_tronco": {
+        "0": [
+            {
+                "timestamp": 2,
+                "angle": 16.425180412949107
+            },
+            {
+                "timestamp": 4,
+                "angle": 20.188491975108963
+            },
+            {
+                "timestamp": 6,
+                "angle": 17.303774613380945
+            },
+            {
+                "timestamp": 8,
+                "angle": 18.591973003120756
+            },
+            {
+                "timestamp": 10,
+                "angle": 18.49643332304249
+            },
+            {
+                "timestamp": 12,
+                "angle": 20.182362784107756
+            },
+            {
+                "timestamp": 14,
+                "angle": 18.789275336368398
+            },
+            {
+                "timestamp": 16,
+                "angle": 17.640941250238757
+            },
+            {
+                "timestamp": 18,
+                "angle": 20.27984502012392
+            }
+        ],
+        "3": [
+            {
+                "timestamp": 4,
+                "angle": 14.99819061462404
+            }
+        ],
+        "4": [
+            {
+                "timestamp": 10,
+                "angle": 16.899964606655505
+            },
+            {
+                "timestamp": 12,
+                "angle": 18.78251659670131
+            }
+        ]
+    },
+    "posicao_bracos": {
+        "0": [
+            {
+                "timestamp": 2,
+                "ombro_dir": 0.002817809581756592,
+                "cotovelo_dir": -0.1424599140882492,
+                "ombro_esq": 0.03716558963060379,
+                "cotovelo_esq": -0.12228308618068695
+            },
+            {
+                "timestamp": 4,
+                "ombro_dir": 0.02209097146987915,
+                "cotovelo_dir": -0.1215057298541069,
+                "ombro_esq": 0.034184619784355164,
+                "cotovelo_esq": -0.10254810750484467
+            },
+            {
+                "timestamp": 6,
+                "ombro_dir": 0.040227606892585754,
+                "cotovelo_dir": -0.1056290939450264,
+                "ombro_esq": 0.028829708695411682,
+                "cotovelo_esq": -0.12537580728530884
+            },
+            {
+                "timestamp": 8,
+                "ombro_dir": 0.005951456725597382,
+                "cotovelo_dir": -0.13290813565254211,
+                "ombro_esq": 0.03414716571569443,
+                "cotovelo_esq": -0.09774043411016464
+            },
+            {
+                "timestamp": 10,
+                "ombro_dir": -0.0036478787660598755,
+                "cotovelo_dir": -0.1345498114824295,
+                "ombro_esq": 0.04196019470691681,
+                "cotovelo_esq": -0.1033685952425003
+            },
+            {
+                "timestamp": 12,
+                "ombro_dir": -0.011714369058609009,
+                "cotovelo_dir": -0.13443471491336823,
+                "ombro_esq": 0.032118432223796844,
+                "cotovelo_esq": -0.10501886904239655
+            },
+            {
+                "timestamp": 14,
+                "ombro_dir": -0.0020152032375335693,
+                "cotovelo_dir": -0.12847226858139038,
+                "ombro_esq": 0.03528491407632828,
+                "cotovelo_esq": -0.10141609609127045
+            },
+            {
+                "timestamp": 16,
+                "ombro_dir": 0.0037534162402153015,
+                "cotovelo_dir": -0.1323459893465042,
+                "ombro_esq": 0.034755267202854156,
+                "cotovelo_esq": -0.1050715371966362
+            },
+            {
+                "timestamp": 18,
+                "ombro_dir": 0.00305185467004776,
+                "cotovelo_dir": -0.13286203145980835,
+                "ombro_esq": 0.03284416347742081,
+                "cotovelo_esq": -0.12283849716186523
+            }
+        ],
+        "3": [
+            {
+                "timestamp": 4,
+                "ombro_dir": -0.5374930500984192,
+                "cotovelo_dir": -0.9285174608230591,
+                "ombro_esq": -0.44281402230262756,
+                "cotovelo_esq": -0.49358442425727844
+            }
+        ],
+        "4": [
+            {
+                "timestamp": 10,
+                "ombro_dir": -0.38610947132110596,
+                "cotovelo_dir": -0.5058954358100891,
+                "ombro_esq": -0.3980022966861725,
+                "cotovelo_esq": -0.503081738948822
+            },
+            {
+                "timestamp": 12,
+                "ombro_dir": -0.39788490533828735,
+                "cotovelo_dir": -0.5282466411590576,
+                "ombro_esq": -0.37506434321403503,
+                "cotovelo_esq": -0.4822513461112976
+            }
+        ]
+    }
+}

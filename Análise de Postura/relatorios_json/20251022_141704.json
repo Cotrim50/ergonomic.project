@@ -1,0 +1,176 @@
+{
+    "session_id": "20251022_141704",
+    "duration_sec": 25,
+    "sitting_stats": {
+        "0": {
+            "sitting_percent": 16.7,
+            "standing_percent": 83.3,
+            "samples": 12
+        },
+        "2": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 6
+        }
+    },
+    "timeline": {
+        "0": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 6,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 8,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 10,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 12,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 15,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 17,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 19,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 21,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 23,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 25,
+                "estado": "de_pe"
+            }
+        ],
+        "2": [
+            {
+                "timestamp": 6,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 8,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 10,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 12,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 15,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 17,
+                "estado": "de_pe"
+            }
+        ]
+    },
+    "angles_tronco": {
+        "0": [
+            {
+                "timestamp": 2,
+                "angle": 21.491052154772355
+            },
+            {
+                "timestamp": 4,
+                "angle": 21.550366145077533
+            },
+            {
+                "timestamp": 6,
+                "angle": 19.633583956035558
+            },
+            {
+                "timestamp": 8,
+                "angle": 24.092270187257512
+            },
+            {
+                "timestamp": 10,
+                "angle": 24.973181691384507
+            },
+            {
+                "timestamp": 12,
+                "angle": 22.269736948639743
+            },
+            {
+                "timestamp": 15,
+                "angle": 21.340776952498633
+            },
+            {
+                "timestamp": 17,
+                "angle": 21.415024895410752
+            },
+            {
+                "timestamp": 19,
+                "angle": 18.584044127326113
+            },
+            {
+                "timestamp": 21,
+                "angle": 23.08584684901212
+            },
+            {
+                "timestamp": 23,
+                "angle": 21.82098076543392
+            },
+            {
+                "timestamp": 25,
+                "angle": 19.511873098728564
+            }
+        ],
+        "2": [
+            {
+                "timestamp": 6,
+                "angle": 16.901948479374823
+            },
+            {
+                "timestamp": 8,
+                "angle": 18.208789173090434
+            },
+            {
+                "timestamp": 10,
+                "angle": 19.98555804873931
+            },
+            {
+                "timestamp": 12,
+                "angle": 21.89528445445539
+            },
+            {
+                "timestamp": 15,
+                "angle": 20.972025179902115
+            },
+            {
+                "timestamp": 17,
+                "angle": 21.003678246117378
+            }
+        ]
+    },
+    "posicao_bracos": {
+        "0": [
+            {
+                "timestamp": 2,
+                "ombro_dir": 

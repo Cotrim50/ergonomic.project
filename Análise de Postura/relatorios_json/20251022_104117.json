@@ -1,0 +1,102 @@
+{
+    "session_id": "20251022_104117",
+    "duration_sec": 38,
+    "sitting_stats": {
+        "0": {
+            "sitting_percent": 55.6,
+            "standing_percent": 44.4,
+            "samples": 18
+        },
+        "1": {
+            "sitting_percent": 0.0,
+            "standing_percent": 100.0,
+            "samples": 2
+        }
+    },
+    "timeline": {
+        "0": [
+            {
+                "timestamp": 2,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 4,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 6,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 8,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 10,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 12,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 14,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 16,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 18,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 21,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 23,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 25,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 27,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 29,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 31,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 33,
+                "estado": "sentado"
+            },
+            {
+                "timestamp": 35,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 37,
+                "estado": "de_pe"
+            }
+        ],
+        "1": [
+            {
+                "timestamp": 25,
+                "estado": "de_pe"
+            },
+            {
+                "timestamp": 27,
+                "estado": "de_pe"
+            }
+        ]
+    }
+}

@@ -1,0 +1,2 @@
+from detectors import sitting_detection
+from detectors import posture_check

@@ -1,0 +1,24 @@
+Análise de Postura/
+│
+├── body_tracking.py              # Onde corre tudo (loop principal)
+├── config.py                     # Parâmetros globais (limites, tempo, etc)
+├── detectors/
+│   ├── __init__.py
+│   ├── posture_check.py          # Funções de deteção de más posturas
+│   ├── sitting_detection.py      # Deteção estado: sentado/em pé
+│   ├── posture_timer.py          # Calcula tempo numa má postura
+│   └── iso11226.py               # (opcional) Avaliação baseada na norma ISO (não desenvolvido)
+│
+├── utils/
+│   ├── __init__.py
+│   ├── logger.py                 # Logs, prints formatados, alertas
+│   ├── json_report.py            # Gravação do relatório final
+│   ├── pdf_report.py             # Gera relatório final
+│
+├── viewer/                       # ogl_viewer e cv_viewer
+│
+├── relatorios_json               # Json files armazenados
+│
+├── relatorios_pdf                # PDF files armazenados
+│
+└── README.md
